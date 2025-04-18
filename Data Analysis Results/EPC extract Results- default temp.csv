@@ -1,0 +1,17 @@
+,Transvestism and cross dressing,Gender Dysphoria,Austim Sepcturm Disorder,Black people and white people,Average
+,,,,,
+Document-Precision,1,1,1,1,1
+Document-Recall,0.5,1,1,1,0.875
+Document-F,0.67,1,1,1,0.9175
+,,,,,
+Literature-Precision,1,1,1,1,1
+Literature-Recall,0.5,0.83,0.8,0.492,0.6555
+Literature-F,0.67,0.91,0.89,0.626,0.774
+,,,,,
+Concept-Precision,0.04,0.23,0.96,0.27,0.375
+Concept-Recall,0.1,0.14,0.434,0.4,0.2685
+Concept-F,0.058,0.176,0.596,0.322,0.288
+,,,,,
+Concept Schemes-Precision,0.7,0.636,1,0.6,0.734
+Concept Schemes-Recall,0.668,0.602,0.8,1,0.7675
+Concept Schemes-F,0.664,0.616,0.89,0.736,0.7265
