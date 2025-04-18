@@ -7,7 +7,7 @@ The data we used is from the Dewey Decimal Classification Editoral Committee, or
 ## Replay the experiments
 To replay the experiments to extract provenance (warrant) information from the DDC exhibit, please refer to these two sections in this repo:
 
-[Python notebook for the extraction] (https://github.com/yiyunyc2/KOS-provenance-LLM/blob/58d9a31d76cb2cd70d4b9ebd35884650e4a9efa3/AI_EPC_extraction.ipynb)
+[Python notebook for the extraction](https://github.com/yiyunyc2/KOS-provenance-LLM/blob/58d9a31d76cb2cd70d4b9ebd35884650e4a9efa3/AI_EPC_extraction.ipynb)
 
 [Prompt with system and user instructions](https://github.com/yiyunyc2/KOS-provenance-LLM/blob/58d9a31d76cb2cd70d4b9ebd35884650e4a9efa3/system%20instructions%20and%20prompt.txt)
 
