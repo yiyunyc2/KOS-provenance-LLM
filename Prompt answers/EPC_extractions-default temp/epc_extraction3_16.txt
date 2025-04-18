@@ -1,0 +1,27 @@
+[{'role': 'assistant', 'content': [{'type': 'text', 'value': 'From the document "EPC 144-S79.1 Drag.pdf," I have extracted the relevant information regarding the "Warrant" class and its subclasses according to the instructions provided.
+
+### Warrant Class and Subclasses
+
+#### Document
+- **EPC 144-S79.1 Drag**
+
+#### Literature
+1. **Blazucki, Sarah, and Jeff McMillan, eds.** “NLGJA Stylebook on LGBTQ Terminology.” Stylebook on LGBTQ+ issues, March 2023. [https://www.nlgja.org/stylebook/](https://www.nlgja.org/stylebook/).
+2. **“Cross-Dressing.”** Wikipedia. Wikimedia Foundation, March 24, 2023. [https://en.wikipedia.org/wiki/Cross-dressing](https://en.wikipedia.org/wiki/Cross-dressing).
+3. **“Cross-Gender Acting.”** Wikipedia. Wikimedia Foundation, November 8, 2022. [https://en.wikipedia.org/wiki/Cross-gender_acting](https://en.wikipedia.org/wiki/Cross-gender_acting).
+4. **“Homosaurus Vocabulary Terms.”** Homosaurus Vocabulary Site. Accessed March 29, 2023. [https://homosaurus.org/v3](https://homosaurus.org/v3).
+
+#### Concept
+- **Drag performance**
+- **Drag shows**
+- **Performing arts**
+- **Theater**
+- **Drag**
+
+#### Concept Schemes
+- **LCSH**
+- **Homosaurus**
+
+This extraction includes all the relevant categories and items as specified for the "Warrant" class and its subclasses of Document, Literature, Concept, and Concept Schemes based on the editorial discussions surrounding the classification of drag.
+
+If you need any adjustments or further details, please let me know!'}]}, {'role': 'user', 'content': [{'type': 'text', 'value': "please read '/content/drive/MyDrive/Provenance/DDC-EPC/EPC 144-S79.1 Drag.pdf', and complete the first task given in the instructions. Do not move forward to the 2nd task [ .pdf] is the DDC editing document. In the document, DDC is commonly mentioned in the form of class number and human readable labels such as ‘613.04 Personal health of people by gender, sex, or age group"}]}]

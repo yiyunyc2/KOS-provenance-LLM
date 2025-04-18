@@ -1,0 +1,28 @@
+[{'role': 'assistant', 'content': [{'type': 'text', 'value': 'Based on the analysis of the document titled "EPC 144-S61.2 Autism spectrum disorder; Attention deficit hyperactivity disorder.pdf", I have extracted the following Warrant information as defined in your instructions:
+
+### Warrant Information Extracted
+
+**Warrant Class:**
+- **Document:**
+  - EPC 144-S61.2 Autism spectrum disorder; Attention deficit hyperactivity disorder
+
+**Literature:**
+1. “A Catastrophe in the Brain.” Yale School of Medicine, 2017. [medicine.yale.edu/news/yale-medicine-magazine/article/a-catastrophe-in-the-brain/](https://www.yale.edu/news/yale-medicine-magazine/article/a-catastrophe-in-the-brain/).
+2. Hours, Camille et al. “ASD and ADHD Comorbidity: What Are We Talking About?.” Frontiers in Psychiatry vol. 13, 837424. 28 Feb. 2022. doi:10.3389/fpsyt.2022.837424.
+3. “6A02 Autism Spectrum Disorder.” World Health Organization, 1 Jan. 2022. [icd.who.int/browse11/l-m/en#/http%253a%252f%252fid.who.int%252ficd%252fentity%252f437815624](https://icd.who.int/browse11/l-m/en#/http%253a%252f%252fid.who.int%252ficd%252fentity%252f437815624).
+4. Smith, Olivia, and Sandra C Jones. “‘Coming out’ with Autism: Identity in People with an Asperger’s Diagnosis after DSM-5.” Journal of Autism and Developmental Disorders, Feb. 2020. [pubmed.ncbi.nlm.nih.gov/31713072](https://pubmed.ncbi.nlm.nih.gov/31713072/).
+
+**Concept:**
+- Autism spectrum disorder
+- Attention deficit hyperactivity disorder
+- Asperger’s syndrome
+- Pervasive development disorders
+- Childhood disintegrative disorder
+
+**Concept Scheme:**
+- DSM-5
+- ICD-11
+- LCSH (Library of Congress Subject Headings)
+- MeSH (Medical Subject Headings)
+
+This categorization follows the definitions and characteristics as outlined for each subclass of the Warrant class from your provided instructions. If you need assistance or specific details in the next task, please let me know!'}]}, {'role': 'user', 'content': [{'type': 'text', 'value': "please read '/content/drive/MyDrive/Provenance/DDC-EPC/EPC 144-S61.2 Autism spectrum disorder; Attention deficit hyperactivity disorder.pdf', and complete the first task given in the instructions. Do not move forward to the 2nd task [ .pdf] is the DDC editing document. In the document, DDC is commonly mentioned in the form of class number and human readable labels such as ‘613.04 Personal health of people by gender, sex, or age group"}]}]

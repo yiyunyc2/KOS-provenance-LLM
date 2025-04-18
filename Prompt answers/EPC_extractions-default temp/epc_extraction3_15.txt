@@ -1,0 +1,26 @@
+[{'role': 'assistant', 'content': [{'type': 'text', 'value': 'Based on the analysis of the document **"EPC 144-S79.1 Drag.pdf"**, here is the extracted Warrant and its subclasses:
+
+### Warrant Classification
+
+- **Document**: EPC 144-S79.1 Drag
+
+**Literature**:
+1. Blazucki, Sarah, and Jeff McMillan, eds. “NLGJA Stylebook on LGBTQ Terminology.” Stylebook on LGBTQ+ issues, March 2023. [https://www.nlgja.org/stylebook/](https://www.nlgja.org/stylebook/).
+2. “Cross-Dressing.” Wikipedia. Wikimedia Foundation, March 24, 2023. [https://en.wikipedia.org/wiki/Cross-dressing](https://en.wikipedia.org/wiki/Cross-dressing).
+3. “Cross-Gender Acting.” Wikipedia. Wikimedia Foundation, November 8, 2022. [https://en.wikipedia.org/wiki/Cross-gender_acting](https://en.wikipedia.org/wiki/Cross-gender_acting).
+4. “Homosaurus Vocabulary Terms.” Homosaurus Vocabulary Site. Accessed March 29, 2023. [https://homosaurus.org/v3](https://homosaurus.org/v3).
+
+**Concepts**:
+1. Drag performance
+2. Drag shows
+3. Performing arts
+4. Theater
+5. Drag
+
+**Concept Schemes**:
+1. LCSH (Library of Congress Subject Headings)
+2. Homosaurus
+
+These classifications reflect the various kinds of warrants cited in the document regarding the discussion of drag performances and related topics. The Document refers to the own editorial notes, while the Literature refers to both scholarly articles and commonly used references on the subject. The Concepts and Concept Schemes relate to external classifications that do not include the editing terms within the same context being discussed.
+
+If you require further processing or details, please let me know!'}]}, {'role': 'user', 'content': [{'type': 'text', 'value': "please read '/content/drive/MyDrive/Provenance/DDC-EPC/EPC 144-S79.1 Drag.pdf', and complete the first task given in the instructions. Do not move forward to the 2nd task [ .pdf] is the DDC editing document. In the document, DDC is commonly mentioned in the form of class number and human readable labels such as ‘613.04 Personal health of people by gender, sex, or age group"}]}]

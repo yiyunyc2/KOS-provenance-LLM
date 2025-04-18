@@ -1,0 +1,36 @@
+[{'role': 'assistant', 'content': [{'type': 'text', 'value': "Based on the content of the document 'EPC 144-S61.2 Autism spectrum disorder; Attention deficit hyperactivity disorder.pdf', I have extracted the Warrant and its subclasses as follows:
+
+### Warrant Extraction
+
+**Document:**
+- EPC 144-S61.2 Autism spectrum disorder; Attention deficit hyperactivity disorder
+
+**Literature:**
+1. Hours, Camille et al. “ASD and ADHD Comorbidity: What Are We Talking About?” Frontiers in psychiatry, vol. 13, 2022. [doi:10.3389/fpsyt.2022.837424](https://doi.org/10.3389/fpsyt.2022.837424)
+2. “6A02 Autism Spectrum Disorder.” World Health Organization, 1 Jan. 2022. [ICD-11](https://icd.who.int/browse11/l-m/en#/http%253a%252f%252fid.who.int%252ficd%252fentity%252f437815624)
+3. Smith, Olivia, and Sandra C. Jones. “‘Coming out’ with Autism: Identity in People with an Asperger’s Diagnosis after DSM-5.” Journal of Autism and Developmental Disorders, Feb. 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31713072/)
+4. “A Catastrophe in the Brain.” Yale School of Medicine, 2017. [Yale Medicine](https://medicine.yale.edu/news/yale-medicine-magazine/article/a-catastrophe-in-the-brain/)
+
+**Concept:**
+- Autism Spectrum Disorder
+- Attention Deficit Hyperactivity Disorder
+- Pervasive Developmental Disorders
+- Asperger’s Syndrome
+- Childhood Disintegrative Disorder
+
+**Concept Schemes:**
+- DSM-5
+- ICD-11
+- LCSH (Library of Congress Subject Headings)
+- MeSH (Medical Subject Headings)
+
+### Summary of Warrant
+The document discusses changes and proposals related to the classification of Autism Spectrum Disorder (ASD) and Attention Deficit Hyperactivity Disorder (ADHD) in the Dewey Decimal Classification (DDC). It references several literature items, some concepts applicable within the taxonomy of mental health and disorders, and well-known concept schemes used in classification, like DSM-5 and ICD-11.
+
+### Citations
+1. Hours, Camille et al., 2022, “ASD and ADHD Comorbidity: What Are We Talking About?” Frontiers in psychiatry, vol. 13. DOI: 10.3389/fpsyt.2022.837424【4:2†source】.
+2. “6A02 Autism Spectrum Disorder,” World Health Organization, 2022. Available at: [ICD-11](https://icd.who.int/browse11/l-m/en#/http%253a%252f%252fid.who.int%252ficd%252fentity%252f437815624)【4:3†source】.
+3. Smith, Olivia, and Sandra C. Jones, 2020, “‘Coming out’ with Autism: Identity in People with an Asperger’s Diagnosis after DSM-5,” Journal of Autism and Developmental Disorders. Available at: [PubMed](https://pubmed.ncbi.nlm.nih.gov/31713072/)【4:4†source】.
+4. “A Catastrophe in the Brain,” Yale School of Medicine, 2017. Available at: [Yale Medicine](https://medicine.yale.edu/news/yale-medicine-magazine/article/a-catastrophe-in-the-brain/)【4:5†source】.
+
+This completes the first task as per the provided instructions. Let me know if you need anything else!"}]}, {'role': 'user', 'content': [{'type': 'text', 'value': "please read '/content/drive/MyDrive/Provenance/DDC-EPC/EPC 144-S61.2 Autism spectrum disorder; Attention deficit hyperactivity disorder.pdf', and complete the first task given in the instructions. Do not move forward to the 2nd task [ .pdf] is the DDC editing document. In the document, DDC is commonly mentioned in the form of class number and human readable labels such as ‘613.04 Personal health of people by gender, sex, or age group"}]}]

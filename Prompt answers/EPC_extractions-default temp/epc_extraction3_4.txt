@@ -1,0 +1,26 @@
+[{'role': 'assistant', 'content': [{'type': 'text', 'value': 'Based on the document \'EPC 144-S30.1 Transvestism and cross dressing.pdf\', I have extracted the "Warrant" and its subclasses as follows:
+
+### Warrant Extraction
+
+- **Document**: EPC 144-S30.1 Transvestism and cross dressing
+- **Literature**:
+    - Anupama, M et al. “Transvestism as a Symptom: A Case Series.” *Indian journal of psychological medicine* vol. 38,1 (2016): 78-80. doi:10.4103/0253-7176.175131. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4782454/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4782454/)
+    - Brown, George R. “Transvestic Disorder - Psychiatric Disorders.” *Merck Manuals Professional Edition*, Merck Manuals, 18 Apr. 2023, [https://www.merckmanuals.com/professional/psychiatric-disorders/paraphilic-disorders/transvestic-disorder](https://www.merckmanuals.com/professional/psychiatric-disorders/paraphilic-disorders/transvestic-disorder)
+- **Concept**:
+    - Cross dressing
+    - Transvestism
+    - Sexual cross dressing
+    - Fetishism
+- **Concept Scheme**:
+    - DDC (Dewey Decimal Classification)
+
+This extraction is based on references made within the document regarding the decision-making process for changes to the Dewey Decimal Classification regarding transvestism and cross-dressing. 
+
+### Summary of Warrant Components
+
+1. **Document**: The actual editorial document detailing the proposed changes was referenced.
+2. **Literature**: Citable publications that are referenced within the document to support the proposals.
+3. **Concept**: Controlled terms used in relation to the topics discussed in the document.
+4. **Concept Scheme**: The classification system used for maintaining the structure and organization of knowledge, in this case, DDC.
+
+If you have any further questions or need assistance with the next step, please let me know!'}]}, {'role': 'user', 'content': [{'type': 'text', 'value': "please read '/content/drive/MyDrive/Provenance/DDC-EPC/EPC 144-S30.1 Transvestism and cross dressing.pdf', and complete the first task given in the instructions. Do not move forward to the 2nd task [ .pdf] is the DDC editing document. In the document, DDC is commonly mentioned in the form of class number and human readable labels such as ‘613.04 Personal health of people by gender, sex, or age group"}]}]
